@@ -21,9 +21,3 @@ criaCartao(
     'Quem é o Patrono da Educação Brasileira?',
     'Paulo Freire'
 )
-
-criaCartao(
-    'Educação',
-    'Que foi o último presidente eleito?',
-    'Lula'
-)
