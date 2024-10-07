@@ -21,3 +21,9 @@ criaCartao(
     'Quem é o Patrono da Educação Brasileira?',
     'Paulo Freire'
 )
+
+criaCartao(
+    'Educação',
+    'Qual o nome do formador da ALura Start',
+    'Gabriel'
+)
