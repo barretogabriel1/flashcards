@@ -24,6 +24,6 @@ criaCartao(
 
 criaCartao(
     'Educação',
-    'Qual o nome do formador da ALura Start',
-    'Gabriel'
+    'Em qual linguagem de programação esse projeto foi feito?',
+    'Javascript'
 )
